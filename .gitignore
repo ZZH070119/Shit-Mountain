@@ -1,1 +1,20 @@
+# 编译生成的文件
+Debug/
+Release/
+*.o
+*.d
+*.hex
+*.bin
+*.elf
+*.map
+*.su
 
+# IDE 临时文件
+.settings/
+.vscode/
+*.launch
+*.ioc.bak
+
+# 系统文件
+.DS_Store
+Thumbs.db
